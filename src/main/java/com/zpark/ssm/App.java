@@ -7,6 +7,7 @@ public class App {
         System.out.println("Hello GitHub! ztm master first push GitHub!");
         System.out.println("test pull from GitHub!");
         System.out.println("test push to GitHub!");
+        System.out.println("test pull from GitHub!");
     }
 
 }
